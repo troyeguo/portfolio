@@ -56,7 +56,7 @@ export default () => {
       </a>
       <Tooltip
         disabled={tip}
-        title={intl.formatMessage("Copied")}
+        title={intl.formatMessage({ id: "Copied" })}
         position="top"
         trigger="click"
         arrow={true}
