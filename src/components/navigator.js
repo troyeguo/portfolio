@@ -1,7 +1,7 @@
 //顶部导航栏
 import React, { useEffect } from "react";
 import styles from "../styles/navigator.module.css";
-import { useIntl, changeLocale } from "gatsby-plugin-intl";
+import { useIntl } from "gatsby-plugin-intl";
 export default (props) => {
   const intl = useIntl();
   useEffect(() => {

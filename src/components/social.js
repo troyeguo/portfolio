@@ -6,9 +6,13 @@ import { AiOutlineGithub } from "react-icons/ai";
 import { FaBehance } from "react-icons/fa";
 import { FiMail } from "react-icons/fi";
 import { Tooltip } from "react-tippy";
+import { useIntl } from "gatsby-plugin-intl";
+
 const copy = require("copy-text-to-clipboard");
 export default () => {
   const [tip, setTip] = useState(false);
+  const intl = useIntl();
+
   useEffect(() => {
     const btn = document.getElementById("copy-email");
     btn.addEventListener("click", () => {
@@ -52,7 +56,7 @@ export default () => {
       </a>
       <Tooltip
         disabled={tip}
-        title="已复制到剪切板"
+        title={intl.formatMessage("Copied")}
         position="top"
         trigger="click"
         arrow={true}
