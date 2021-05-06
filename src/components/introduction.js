@@ -64,7 +64,7 @@ export default () => {
               </span>
               &nbsp;
               <span style={{ color: "#5216CE" }}>
-                <TextLoop interval={800} delay={3000}>
+                <TextLoop interval={800} delay={2000}>
                   {[
                     "Javascript",
                     "Typescript",
@@ -72,6 +72,8 @@ export default () => {
                     "React",
                     "Vue",
                     "React Native",
+                    "Expo",
+                    "Figma",
                     "Adobe XD",
                     "Photoshop",
                     "Illustrator",

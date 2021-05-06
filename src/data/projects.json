@@ -1,10 +1,10 @@
 [
   {
     "value": {
-      "name": "Coodo Pay",
-      "github": "https://github.com/troyeguo/coodo-pay",
-      "detail": "A premium payment system built for freelance developer and website owner which can help you manage payment, user, product, order, email, disaccount and data.",
-      "description": "Premium payment system",
+      "name": "Memberly",
+      "github": "https://github.com/troyeguo/memberly",
+      "detail": "A premium payment system built for indie developer  which can help you run your own subscription services",
+      "description": "Subscription manager system",
       "illustration": "/images/illustration/coodo.png"
     }
   },

@@ -13,7 +13,7 @@ module.exports = {
         // supported language
         languages: [`en`, `zh-CN`],
         // language file path
-        defaultLanguage: `zh-CN`,
+        defaultLanguage: `en`,
       },
     },
     "gatsby-plugin-react-helmet",

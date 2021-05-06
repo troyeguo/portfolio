@@ -12,9 +12,11 @@ export default () => {
           ? "zh-CN"
           : localStorage.getItem("lng")
       );
-    } else if (navigator.language.includes("zh")) {
+    } else if (navigator.language.indexOf("zh") > -1) {
       changeLocale("zh-CN");
       localStorage.setItem("lng", "zh-CN");
+    } else {
+      console.log(localStorage.getItem("lng"));
     }
   }, []);
   return (

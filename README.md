@@ -22,7 +22,3 @@ cd portfolio
 yarn
 yarn start
 ```
-
-## License
-
-This project is licensed under the MIT license. Copyright (c) 2019-2020 App by Troye.

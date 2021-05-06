@@ -122,6 +122,9 @@
   bottom: 41px;
   margin-left: 55px;
 }
+.project_github:hover {
+  text-decoration: underline;
+}
 .project_spring {
   position: absolute;
   left: 0px;
