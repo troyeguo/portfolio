@@ -12,7 +12,7 @@
 /.cache/
 #/public/
 /cache
-/page-data
+
 
 # production
 #/build
