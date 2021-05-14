@@ -1,10 +1,11 @@
-<h1 align="center">Profolio</h1>
-
 ### Technologies Stack
 
 - Gatsby.js
 - React.js
 - Swiper
+- Fullpage.js
+- React-spring
+- React-reveal
 
 ### Live Preview
 
