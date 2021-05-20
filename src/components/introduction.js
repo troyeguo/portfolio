@@ -71,10 +71,15 @@ export default () => {
                     "Vue",
                     "React Native",
                     "Expo",
+                    "Java",
+                    "Spring",
+                    "Webgl",
+                    "Three.js",
                     "Figma",
                     "Adobe XD",
-                    "Photoshop",
-                    "Illustrator",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Cinema 4D",
                   ].map((text) => (
                     <span key={text}>{text}</span>
                   ))}
