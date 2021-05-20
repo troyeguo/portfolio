@@ -73,7 +73,7 @@ export default () => {
                     "Expo",
                     "Java",
                     "Spring",
-                    "Webgl",
+                    "WebGL",
                     "Three.js",
                     "Figma",
                     "Adobe XD",
