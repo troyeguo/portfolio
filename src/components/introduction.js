@@ -40,7 +40,7 @@ export default () => {
               <span>
                 {" "}
                 {intl.formatMessage({
-                  id: "and develop website and application",
+                  id: "and develop website and app",
                 })}
               </span>
             </BlockRevealAnimation>
