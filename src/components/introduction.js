@@ -77,8 +77,8 @@ export default () => {
                     // "Three.js",
                     "Figma",
                     "Adobe XD",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
+                    "Photoshop",
+                    "Illustrator",
                     "Cinema 4D",
                   ].map((text) => (
                     <span key={text}>{text}</span>
