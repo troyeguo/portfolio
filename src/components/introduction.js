@@ -79,7 +79,7 @@ export default () => {
                     "Adobe XD",
                     "Photoshop",
                     "Illustrator",
-                    "Cinema 4D",
+                    // "Cinema 4D",
                   ].map((text) => (
                     <span key={text}>{text}</span>
                   ))}
