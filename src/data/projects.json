@@ -2,7 +2,7 @@
   {
     "value": {
       "name": "Memberly",
-      "github": "https://app.memberly.vip",
+      "github": "https://app.memberly.vip/#/product/60608503d5dc6641efdeb0f7",
       "detail": "A premium payment system built for freelance developer and website owner which can help you manage payment, user, product, order, email, disaccount and data.",
       "description": "Premium payment system",
       "illustration": "/images/illustration/coodo.png"
@@ -20,7 +20,7 @@
   {
     "value": {
       "name": "Website for Koodo Reader",
-      "github": "https://github.com/troyeguo/website-for-koodo-reader",
+      "github": "https://koodo.960960.xyz",
       "detail": "use Next.js for server rendering, Bootstrap for responsive layout and i18n for internationlization",
       "description": "A website built with Next.js and Bootstrap",
       "illustration": "/images/illustration/coodo.png"
